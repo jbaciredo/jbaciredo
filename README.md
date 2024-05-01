@@ -1,7 +1,8 @@
 <div align="center">
-<h1 align="center"> Hi there, I'm Juli, welcome to my GitHub 👋 </h1>
+<h1 align="center"> Hi there, I'm Juli 👋 <br> Welcome to my GitHub
+ </h1>
 </div>
-<! -- <img src=""> -->
+<! -- <img src=""> 
 
 ## About me:
 

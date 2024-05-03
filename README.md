@@ -16,4 +16,4 @@
 <br>
 <br>
 <br>
-<img src="https://github.com/jbaciredo/2Dplot_fluorescence/image.repo.jpg">
+<img src="image.repo.jpg">

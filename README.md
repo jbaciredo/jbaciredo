@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there, I'm Juli 👋 <br> Welcome to my GitHub
  </h1>
 </div>
-<! -- <img src=""> 
+<img src="C:\Users\julib\OneDrive\Desktop\Proyectos_github"> 
 
 ## About me:
 

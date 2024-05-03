@@ -17,4 +17,4 @@
 <br>
 https://github.com/jbaciredo/2Dplot_fluorescence
 <br>
-<a href="https://github.com/jbaciredo/2Dplot_fluorescence"><img src="image.repo.jpg"></a>
+<a href="https://github.com/jbaciredo/2Dplot_fluorescence"><img src="image.repo.jpg">2Dplot_fluorescence</a>

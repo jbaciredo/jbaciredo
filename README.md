@@ -14,4 +14,6 @@
 - 📫 How to reach me: jbaciredo@gmail.com / julibaciredo@gmail.com
 - ⚡ Interests: Bioinformatics, Finance & Bussiness Intelligence, Sailing and Running.
 <br>
-
+<br>
+<br>
+<img src="image.repo.jpg">

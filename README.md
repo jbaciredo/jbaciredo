@@ -14,5 +14,6 @@
 - 📫 How to reach me: jbaciredo@gmail.com / julibaciredo@gmail.com
 - ⚡ Interests: Bioinformatics, Finance & Bussiness Intelligence, Sailing and Running.
 <br>
-
+<h3 align="center"> Preview of current projects 🎯💪 </h3>
+<br>
 <a href="https://github.com/jbaciredo/2Dplot_fluorescence"> 2Dplot_fluorescence <br> <br> <img src="image.repo.jpg"></a>

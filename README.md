@@ -16,6 +16,10 @@
 <br>
 <h3 align="center"> Preview of current projects 🎯💪 </h3>
 <br>
+<a href="http://inmobiliaria-baciredo.netlify.app/"> 2Dplot_fluorescence <br> <br> <img src="img_web.png"></a>
+<br>
+<hr>
+<br>
 <a href="https://github.com/jbaciredo/2Dplot_fluorescence"> 2Dplot_fluorescence <br> <br> <img src="image.repo.jpg"></a>
 <br>
 <hr>

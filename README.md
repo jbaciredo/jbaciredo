@@ -1,12 +1,12 @@
 <div align="center">
 <h1 align="center"> Hola, soy Juli 👋 <br> Bienvenid@s a mi GitHub </h1>
 </div>
-<img src="data_analyst.jpg"> 
+<img src="data_analyst.jpg" align="center"> 
 
 ## Sobre mi:
 <ul>
   <li>🔭 Actualmente estoy trabajando en proyectos de desarrollo web y pequeñas herramientas de análisis de datos.</li>
-  <li>🌱 Actualmente estoy aprendiendo tecnologías del ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM) como Java, bases de             datos SQL, desarrollo móvil y servicios backend.</li>
+  <li>🌱 Actualmente estoy aprendiendo tecnologías del ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM) como Java, bases de                datos SQL, desarrollo móvil y servicios backend.</li>
   <li>👯 Busco colaborar en proyectos de desarrollo de software y análisis de datos.</li>
   <li>💼 Estoy buscando prácticas y oportunidades junior como desarrollador.</li>
   <li>💬 Pregúntame sobre Python para análisis de datos o desarrollo web con HTML, CSS y JavaScript.</li>

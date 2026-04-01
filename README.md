@@ -1,7 +1,10 @@
 <div align="center">
 <h1 align="center"> Hola, soy Juli 👋 <br> Bienvenid@s a mi GitHub </h1>
 </div>
-<img src="data_analyst.jpg" align="center"> 
+<div style="text-align: center;">
+  <img src="data_analyst.jpg">
+</div>
+ 
 
 <h2 align="center"> Desarrollo de aplicaciones multiplataforma </h2>
 

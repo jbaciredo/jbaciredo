@@ -28,7 +28,7 @@
 <br>
 <hr>
 <br>
-<a href="https://github.com/jbaciredo/2Dplot_fluorescence"> 2Dplot_fluorescence <br> <br> <img src="image.repo.jpg"></a>
+<a align="center" href="https://github.com/jbaciredo/2Dplot_fluorescence"> 2Dplot_fluorescence <br> <br> <img src="image.repo.jpg"></a>
 <br>
 <hr>
 <br>

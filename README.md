@@ -3,6 +3,8 @@
 </div>
 <img src="data_analyst.jpg" align="center"> 
 
+<h2 align="center"> Desarrollo de aplicaciones multiplataforma </h2>
+
 ## Sobre mi:
 <ul>
   <li>🔭 Actualmente estoy trabajando en proyectos de desarrollo web y pequeñas herramientas de análisis de datos.</li>

@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Hola, soy Juli 👋 <br> Bienvenid@s a mi GitHub </h1>
 </div>
-<div style="text-align: center;">
+<div align="center">
   <img src="data_analyst.jpg">
 </div>
  
